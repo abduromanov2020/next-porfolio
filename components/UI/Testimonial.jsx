@@ -49,7 +49,7 @@ function Testimonial() {
                     </div>
                   </div>
 
-                  <p>
+                  <div className={`${classes.testimonial__list}`}>
                     <ul>
                       <li>
                         Responsible for developing, testing, collaborating,
@@ -67,7 +67,7 @@ function Testimonial() {
                         platform (Hostinger)
                       </li>
                     </ul>
-                  </p>
+                  </div>
                 </div>
 
                 <div className={`${classes.testimonial__item}`}>
@@ -86,7 +86,7 @@ function Testimonial() {
                     </div>
                   </div>
 
-                  <p>
+                  <div className={`${classes.testimonial__list}`}>
                     <ul>
                       <li>
                         Learned and practiced Software engineering development
@@ -104,7 +104,7 @@ function Testimonial() {
                         according to google API guideline (Golang, GORM, Echo)
                       </li>
                     </ul>
-                  </p>
+                  </div>
                 </div>
 
                 <div className={`${classes.testimonial__item}`}>
@@ -123,7 +123,7 @@ function Testimonial() {
                     </div>
                   </div>
 
-                  <p>
+                  <div className={`${classes.testimonial__list}`}>
                     <ul>
                       <li>Created a front end path learning module</li>
                       <li>
@@ -131,7 +131,7 @@ function Testimonial() {
                         the participants who attended the event
                       </li>
                     </ul>
-                  </p>
+                  </div>
                 </div>
               </Slider>
             </Container>

@@ -16,6 +16,10 @@
     color: #01d293;
 }
 
+.testimonial__list ul li {
+    color: #808dad !important;
+}
+
 @media only screen and (max-width: 992px) {
     .testimonial__img img {
         width: 300px !important;
