@@ -20,7 +20,7 @@
 }
 
 .info__item span i {
-    color: #01d293;
+    color: #01d293 !important;
     font-size: 1.2rem;
 }
 
@@ -32,6 +32,11 @@
     color: #808dad !important;
     font-size: 1.3rem !important;
     cursor: pointer;
+}
+
+.social__links a {
+    color: #808dad !important;
+    text-decoration: none !important;
 }
 
 .social__links a:hover {
