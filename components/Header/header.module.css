@@ -39,7 +39,7 @@
 }
 
 .nav__menu a:first-child {
-    color: #01d293;
+    color: #01d293 !important;
 }
 
 .nav__right p {
