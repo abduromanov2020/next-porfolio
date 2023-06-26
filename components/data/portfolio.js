@@ -1,5 +1,13 @@
 const portfolio = [
   {
+    id: "10",
+    title: "Airbnb Clone",
+    img: "/images/project-10.png",
+    category: "Web App",
+    keyword: ["Next JS", "Typescript"],
+    liveUrl: "https://airbnb-alfatihdevs.vercel.app/",
+  },
+  {
     id: "08",
     title: "Portfolio Website",
     img: "/images/project-8.png",
